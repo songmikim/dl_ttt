@@ -29,7 +29,7 @@
 
 Flask 애플리케이션을 실행합니다.
 ```bash
-flask --app app run
+flask run --debug
 ```
 
 API는 다음의 두 엔드포인트를 제공합니다.
